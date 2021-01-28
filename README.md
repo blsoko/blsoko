@@ -1,9 +1,4 @@
----
-title: My little world
-githubUsername: 'blsoko'
----
-
-# Gaurav Chouhan 😃
+# José Giraldo(Soko) 😃
 Fullstack | Leader 
 
 ## 🧐 About
