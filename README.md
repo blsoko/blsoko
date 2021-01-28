@@ -11,7 +11,7 @@ Fullstack | Leader
 ## :beers: Communities
 - I'm a Holbbie @ [Holberton](https://www.holbertonschool.com/co/en)
 
-## ⚡ Technologies
+## :cyclone: Technologies
 Talk to me about
 - Python, C.
 - Mysql & SqlAlchemy
